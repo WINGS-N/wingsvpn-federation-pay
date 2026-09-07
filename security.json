@@ -1,0 +1,10 @@
+{
+  "name": "WINGS V Federation Pay",
+  "version": "0.1.0",
+  "description": "Казна федерации WINGS V, эпохи выплат по меркл-корню и стейк доноров",
+  "project_url": "https://v.wingsnet.org",
+  "contacts": ["email:security@wingsnet.org"],
+  "policy": "Сообщите о находке письмом до публикации. Ответ в течение 72 часов, исправление согласуем с вами. Тестировать только в devnet, атаки на mainnet-казну недопустимы.",
+  "preferred_languages": ["ru", "en"],
+  "auditors": ["None"]
+}
